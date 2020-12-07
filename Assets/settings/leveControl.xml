@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<leveles>
+  <level>
+    <indexSchena>1</indexSchena>
+    <finish>on</finish>
+  </level>
+  <level>
+    <indexSchena>2</indexSchena>
+    <finish>on</finish>
+  </level>
+</leveles> 
