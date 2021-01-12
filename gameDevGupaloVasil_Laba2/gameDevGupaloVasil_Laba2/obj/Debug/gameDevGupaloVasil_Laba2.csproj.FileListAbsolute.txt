@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\bin\Debug\gameDevGupaloVasil_Laba2.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\bin\Debug\gameDevGupaloVasil_Laba2.exe
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\bin\Debug\gameDevGupaloVasil_Laba2.pdb
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\obj\Debug\gameDevGupaloVasil_Laba2.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\obj\Debug\gameDevGupaloVasil_Laba2.exe
+c:\users\acer\documents\visual studio 2015\Projects\gameDevGupaloVasil_Laba2\gameDevGupaloVasil_Laba2\obj\Debug\gameDevGupaloVasil_Laba2.pdb
